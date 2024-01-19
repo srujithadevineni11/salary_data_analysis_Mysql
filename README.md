@@ -30,7 +30,7 @@ To replicate the analysis, follow these steps:
 
 ## Contact Information
 
-If you have any questions or would like to discuss this research further, please feel free to reach out to me:
+If you have any questions or would like to discuss this further, please feel free to reach out to me:
 
 Name: srujitha Devineni
 Email:devinenisrujitha@gmail.com
